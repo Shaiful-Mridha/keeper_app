@@ -1,0 +1,18 @@
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+    /* alternative of box-sizing */
+        /* width: 100%; 
+    padding:0 10px; */
+}
+html {
+    font-family: 'Montserrat', sans-serif;
+  }
+body {
+    /* background: #eee; */
+    background-color: #93B1A6;
+    /* padding: 0 16px; */
+  }
+
+
