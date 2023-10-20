@@ -23,7 +23,6 @@ function CreateArea(props) {
       title: "",
       content: "",
     });
-    //it will prevent default mode
     event.preventDefault();
   }
 
